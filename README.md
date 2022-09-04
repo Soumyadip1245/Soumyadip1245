@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soumyadip1245
-- 👀 I’m interested in Ui/UX
+- 👀 I’m interested in Ui/UX 
 - 🌱 I’m currently learning Full Stack Developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
